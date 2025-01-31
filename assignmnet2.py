@@ -131,5 +131,3 @@ except KeyError:
 
 # Run with: streamlit run app.py
 
-pip install streamlit plotly pandas
-streamlit run app.py
